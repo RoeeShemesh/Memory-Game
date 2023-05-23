@@ -10,6 +10,7 @@ At any point in time the player has the option to pause the game, restart the ga
 - [RoeeShemesh](https://github.com/RoeeShemesh)
 
 ## Preview images
-<img src="https://user-images.githubusercontent.com/118439273/229484247-4854a0a0-7e4f-4f2d-9e87-60fadd52d077.png" width="520" height="520" />
-<img src="https://user-images.githubusercontent.com/118439273/229484247-4854a0a0-7e4f-4f2d-9e87-60fadd52d077.png" width="520" height="520" />
-<img src="https://user-images.githubusercontent.com/118439273/229484247-4854a0a0-7e4f-4f2d-9e87-60fadd52d077.png" width="520" height="520" />
+<img src="https://github.com/RoeeShemesh/Memory-Game/blob/main/Preview%20images/%E2%80%8F%E2%80%8F%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%20(7).png?raw=true" width="1000" height="750" />
+<img src="https://github.com/RoeeShemesh/Memory-Game/blob/main/Preview%20images/%E2%80%8F%E2%80%8F%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%20(15).png?raw=true" width="1000" height="750" />
+<img src="https://github.com/RoeeShemesh/Memory-Game/blob/main/Preview%20images/%E2%80%8F%E2%80%8F%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%20(16).png?raw=true" width="1000" height="750" />
+<img src="https://github.com/RoeeShemesh/Memory-Game/blob/main/Preview%20images/%E2%80%8F%E2%80%8F%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%20(14).png?raw=true" width="1000" height="750" />
